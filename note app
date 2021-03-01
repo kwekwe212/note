@@ -1,12 +1,13 @@
 Plan Note App
 
 Target :
-- Dashboard
+- Dashboard => '/'
 Buat tampilan laman dashboard ( Jumlah note, Todo, Schedule, Warning )
 Tampil group Note, Todo, Schedule di sidebar
 Group Note diisi menu Create, menu List, menu Delete
 
-- Note ( Create, List, Delete )
+
+- Note ( Create, List, Delete ) => '/note'
 Buat table database untuk simpan note ( id, date, note, user, update_at, delete_at )
 Buat tampilan simple laman note cuman buat test note
 Bikin note pake Summernote
@@ -16,7 +17,8 @@ Bisa di update note saat buka note
 Hapus note ( saat buka note maupun tampil note di List )
 Memperbaiki tampilan Note
 
-- User login ( Register, Login, Update, optional with verification email )
+
+- User login ( Register, Login, Update, optional with verification email ) => '/account' 
 Buat table database untuk simpan akun ( uniqid_user, username, name, email, password )
 Buat Register + verification email
 Coba login
