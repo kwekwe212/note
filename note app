@@ -13,7 +13,8 @@ Buat table database untuk simpan note ( id, date, note, user, update_at, delete_
 Buat tampilan simple laman note cuman buat test note
 Bikin note pake Summernote
 Tambah note 
-Melihat isi note
+Pastikan bisa kekirim ke database
+Melihat isi note di laman list note
 Bisa di update note saat buka note
 Hapus note ( saat buka note maupun tampil note di List )
 Memperbaiki tampilan Note
