@@ -5,7 +5,7 @@ Target :
 - Dashboard => '/'
 Buat tampilan laman dashboard ( Jumlah note, Todo, Schedule, Warning )
 Tampil group Note, Todo, Schedule di sidebar
-Group Note diisi menu Create, menu List, menu Delete
+Group Note diisi menu Create, menu List
 
 
 - Note ( Create, List, Delete ) => '/note'
