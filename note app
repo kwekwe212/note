@@ -13,6 +13,8 @@ Buat table database untuk simpan note ( id, date, note, user, update_at, delete_
 Buat tampilan simple laman note cuman buat test note
 Bikin note pake Summernote
 Tambah note 
+=> Note akan tersimpan otomatis setiap kata
+=> atau diberi setTime beberapa detik untuk menyimpan note ke database ( mungkin 5 detik setelah terakhir mengetik )
 Pastikan bisa kekirim ke database
 Melihat isi note di laman list note
 Bisa di update note saat buka note
