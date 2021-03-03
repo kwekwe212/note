@@ -9,11 +9,10 @@ Group Note diisi menu Create, menu List
 
 
 - Note ( Create, List, Delete ) => '/note'
-Buat table database untuk simpan note ( id, date, note, user, update_at, delete_at )
+Buat table database untuk simpan note ( id, title, note, user, created_at, updated_at, deleted_at )
 Buat tampilan simple laman note cuman buat test note
 Bikin note pake Summernote
 Tambah note 
-=> Note akan tersimpan otomatis setiap kata
 => atau diberi setTime beberapa detik untuk menyimpan note ke database ( mungkin 5 detik setelah terakhir mengetik )
 Pastikan bisa kekirim ke database
 Melihat isi note di laman list note
